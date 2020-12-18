@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">retrofit-POST</string>
+    <string name="texresult">TexResult :</string>
+</resources>
